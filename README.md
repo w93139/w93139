@@ -1,39 +1,40 @@
-<div align="center">
+<a id="top"></a>
 
-# 👋 你好，我是温曜榛
+# Hi, I'm 温曜榛 👋
 
-### 全栈开发者 · Full-Stack Developer
+我关注 AI 产品、Agent 工作流和本地优先的开发者工具。<br>
+习惯把复杂产品拆成可验证的用户旅程、Agent I/O 与系统结构，<br>
+再把方法沉淀成可以复用的技能和真正能运行的工具。
 
-热爱技术与设计，专注于构建高性能、优雅的 Web 应用。
+🌐 [个人网站](https://w93139.github.io/Jyn-Website/) · ✉️ [Email](mailto:yzz93139@gmail.com)
 
-<br/>
+---
 
-<a href="https://w93139.github.io/Jyn-Website/">
-  <img alt="个人网站" src="https://img.shields.io/badge/🌐_个人网站-点击访问-9281f7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+## ⭐ Featured projects
 
-<br/>
-<br/>
+🖥️ [**token-usage-monitor**](https://github.com/w93139/token-usage-monitor)<br>
+本地优先的 Codex Token 用量监控工具，包含原生 macOS 菜单栏应用与 API 用量记录。
 
-### 🛠️ 技术栈
+📡 [**github-radar**](https://github.com/w93139/github-radar)<br>
+只读的 Codex 插件，用于发现 GitHub 新项目并追踪 Star 增长趋势。
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+🧭 [**ai-product-teardown**](https://github.com/w93139/ai-product-teardown)<br>
+以证据为基础拆解 AI 产品：用户旅程、Agent 契约、提示词与分层架构。
 
-<br/>
+🛡️ [**safe-find-skills**](https://github.com/w93139/safe-find-skills)<br>
+面向 Agent Skill 发现与安装的安全审查工作流，强调只读发现、完整检查和授权边界。
 
-### 📬 联系我
+---
 
-📧 yzz93139@gmail.com · 📱 18515493319
+## 🔬 Product research
 
-<br/>
+- [MetaSight 产品拆解](https://w93139.github.io/metasight-product-teardown/) — 从证据到账本、Agent 契约、架构与商业化分析
+- [OiiOii 产品架构逆向分析](https://w93139.github.io/oiioii-product-architecture/) — 从交互证据还原 AI 产品的分层结构
 
-<img src="https://komarev.com/ghpvc/?username=w93139&color=9281f7&style=flat-square" alt="访问统计" />
+---
 
-</div>
+## 🧰 Building with
+
+`Python` · `Swift / SwiftUI` · `HTML / CSS / JavaScript` · `Codex Skills & Plugins`
+
+<sub>Evidence first. Local first. Build things that stay useful.</sub>
