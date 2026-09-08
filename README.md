@@ -1,4 +1,4 @@
-# Hi，I'm 温曜榛「Wen Yaozhen」
+# 👋Hi，I'm 温曜榛「Wen Yaozhen」
 
 「AI产品经理」｜「快看世界 慢想答案」
 
@@ -34,10 +34,10 @@
 
 ## 顺手做的工具
 
-- **[Token Usage Monitor](https://github.com/w93139/token-usage-monitor)** — 在 macOS 菜单栏里，把 AI 用量看清楚。
-- **[GitHub Radar](https://github.com/w93139/github-radar)** — 发现新项目，用快照观察它们的成长。
-- **[Agent Blueprint](https://github.com/w93139/agent-blueprint)** — 把产品想法拆成 Agent 架构与代码骨架。
-- **[AI Product Teardown](https://github.com/w93139/ai-product-teardown)** — 从真实体验与证据出发，理解 AI 产品。
+- **[Token Usage Monitor](https://github.com/w93139/token-usage-monitor)** — MacOS Token监测。
+- **[GitHub Radar](https://github.com/w93139/github-radar)** — 发掘GitHub新项目。
+- **[Agent Blueprint](https://github.com/w93139/agent-blueprint)** — Agent搭建蓝图。
+- **[AI Product Teardown](https://github.com/w93139/ai-product-teardown)** — 产品项目拆解。
 
 <details>
 <summary>更多方法与工具</summary>
@@ -46,7 +46,7 @@
 
 </details>
 
-## 一点关于我
+## 关于我
 
 对故事有耐心，对新东西有好奇心。<br>
 喜欢拆解复杂问题，也喜欢做出能用的小东西。<br>
@@ -59,4 +59,4 @@
 
 ---
 
-聊聊 AI、故事，或一个值得做的想法。 [yzz93139@gmail.com ↗](mailto:yzz93139@gmail.com)
+「 快看世界 慢想答案 」—— 联系我：[yzz93139@gmail.com ↗](mailto:yzz93139@gmail.com)
