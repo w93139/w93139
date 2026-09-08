@@ -50,13 +50,6 @@
 喜欢拆解复杂问题，也喜欢做出能用的小东西。<br>
 相信好想法值得动手，好产品需要回到真实场景。
 
-<a href="https://w93139.github.io/Jyn-Website/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
-    <img src="assets/contact-light.svg" width="88" height="32" alt="联系我 — 前往我的个人网站">
-  </picture>
-</a>
-
 ## 研究手记
 
 - **[MetaSight 产品拆解 ↗](https://w93139.github.io/metasight-product-teardown/)** — 用户旅程、Agent 契约与商业化分析。
