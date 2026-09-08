@@ -34,12 +34,13 @@
 - **[Agent Blueprint](https://github.com/w93139/agent-blueprint)** — Agent搭建蓝图
 - **[AI Product Teardown](https://github.com/w93139/ai-product-teardown)** — 产品项目拆解
 
-<details>
-<summary>更多方法与工具</summary>
+## Skill & Workflow
 
-[GEO 内容工作流](https://github.com/w93139/geo-automation-skills) · [PRD 创作与审查](https://github.com/w93139/create-prd-skill) · [RAG 评测](https://github.com/w93139/rag-eval-workflow) · [Skill 安全审查](https://github.com/w93139/safe-find-skills) · [开发工作流](https://github.com/w93139/coding-workflow)
-
-</details>
+- [GEO 内容工作流](https://github.com/w93139/geo-automation-skills)
+- [PRD 创作与审查](https://github.com/w93139/create-prd-skill)
+- [RAG 评测](https://github.com/w93139/rag-eval-workflow)
+- [Skill 安全审查](https://github.com/w93139/safe-find-skills)
+- [开发工作流](https://github.com/w93139/coding-workflow)
 
 ## 关于我
 
@@ -52,7 +53,7 @@
 <a href="https://w93139.github.io/Jyn-Website/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
-    <img src="assets/contact-light.svg" width="100" height="32" alt="联系我 — 前往我的个人网站">
+    <img src="assets/contact-light.svg" width="88" height="32" alt="联系我 — 前往我的个人网站">
   </picture>
 </a>
 
