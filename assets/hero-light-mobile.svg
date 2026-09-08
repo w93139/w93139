@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">温曜榛 · Wen Yaozhen — AI 产品经理</title>
+  <desc id="desc">从真实场景出发，把 AI 做成可用的产品。Agent / AIGC / Product Thinking。</desc>
+  <rect width="640" height="360" rx="18" fill="#F6F5F0"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <circle cx="43" cy="43" r="5" fill="#527962"/>
+  <text x="59" y="48" font-size="13" letter-spacing="2" fill="#65726A">W93139 / PRODUCT &amp; PRACTICE</text>
+  <text x="38" y="128" font-size="58" font-weight="650" letter-spacing="2" fill="#202C29">温曜榛<tspan dx="18" font-size="22" font-weight="400" letter-spacing="0" fill="#65726A">Wen Yaozhen</tspan></text>
+  <text x="40" y="174" font-size="23" font-weight="500" fill="#527962">AI 产品经理 · Agent / AIGC</text>
+  <text x="40" y="230" font-size="23" fill="#202C29">从真实场景出发，把 AI 做成可用的产品。</text>
+  <path d="M40 264H590" stroke="#D9DFD5"/>
+  <text x="40" y="296" font-size="13" letter-spacing="1.5" fill="#65726A">PRODUCT THINKING · AGENT WORKFLOWS · BUILDING</text>
+  
+  </g>
+</svg>
