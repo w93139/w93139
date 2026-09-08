@@ -1,11 +1,4 @@
-<a href="https://w93139.github.io/Jyn-Website/">
-  <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal-dark-mobile.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/terminal-light-mobile.svg">
-    <img src="assets/terminal-light.svg" width="100%" alt="快慢刀的故事工作台：温曜榛 · AI 产品经理。让故事可以参与，让想法可以运行。点击进入我的个人网站。">
-  </picture>
-</a>
+<p><a href="https://w93139.github.io/Jyn-Website/"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal-website-dark-mobile.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-website-dark.svg"><source media="(max-width: 600px)" srcset="assets/terminal-website-light-mobile.svg"><img src="assets/terminal-website-light.svg" width="33.3333%" alt="温曜榛 · AI 产品经理。让故事可以参与，让想法可以运行。My website：进入我的个人网站。"></picture></a><a href="https://xhslink.cn/o/6eXVjfjEOoQ"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal-xiaohongshu-dark-mobile.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-xiaohongshu-dark.svg"><source media="(max-width: 600px)" srcset="assets/terminal-xiaohongshu-light-mobile.svg"><img src="assets/terminal-xiaohongshu-light.svg" width="33.3333%" alt="小红书：访问我的小红书主页。"></picture></a><a href="https://raw.githubusercontent.com/w93139/w93139/main/assets/wechat-qr.jpg"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal-wechat-dark-mobile.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-wechat-dark.svg"><source media="(max-width: 600px)" srcset="assets/terminal-wechat-light-mobile.svg"><img src="assets/terminal-wechat-light.svg" width="33.3333%" alt="微信公众号：打开二维码图片，使用微信扫码关注。"></picture></a></p>
 
 <a id="stories"></a>
 
