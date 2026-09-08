@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="410" viewBox="0 0 640 410" role="img" aria-labelledby="title desc">
+<title id="title">快慢刀的故事工作台</title>
+<desc id="desc">温曜榛，AI 产品经理。让故事可以参与，让想法可以运行。AI 剧本杀、AI 改写与 Agent 工具。</desc>
+<style>
+.terminal{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace}
+.reveal{opacity:1;animation:reveal .6s ease-out both}
+.one{animation-delay:.25s}.two{animation-delay:1.05s}.three{animation-delay:2.2s}
+@keyframes reveal{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){.reveal{animation:none;opacity:1}}
+</style>
+<rect x="1" y="1" width="638" height="408" rx="15" fill="#F7F9FC" stroke="#DCE4EE"/>
+<path d="M16 1H624Q639 1 639 16V49H1V16Q1 1 16 1" fill="#EEF2F7"/>
+<path d="M1 49H639" stroke="#DCE4EE"/>
+<circle cx="25" cy="25" r="5" fill="#61748D" opacity=".7"/>
+<circle cx="44" cy="25" r="5" fill="#61748D" opacity=".45"/>
+<circle cx="63" cy="25" r="5" fill="#61748D" opacity=".25"/>
+<g class="terminal">
+<text x="616" y="30" text-anchor="end" font-size="16" fill="#61748D">kuaimandao — story studio</text>
+<text x="38" y="93" font-size="22" fill="#356CA2">~/快慢刀 $ whoami</text>
+<text x="38" y="140" font-size="25" fill="#253348">温曜榛 · AI 产品经理</text>
+<g class="reveal one" fill="#253348"><text x="38" y="205" font-size="35">让故事可以参与，</text><text x="38" y="252" font-size="35">让想法可以运行。</text></g>
+<text class="reveal two" x="38" y="300" font-size="22" fill="#61748D">AI 剧本杀 / AI 改写 / Agent 工具</text>
+<path d="M38 330H598" stroke="#DCE4EE"/>
+<text class="reveal three" x="38" y="368" font-size="21" fill="#356CA2">往下，看看我做的东西 ↓</text>
+</g>
+</svg>

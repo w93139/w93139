@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" viewBox="0 0 480 330" role="img" aria-labelledby="title desc">
+<title id="title">AI 剧本改写</title>
+<desc id="desc">让旧故事长出新的可能。 围绕情节、人物与文风，探索 AI 辅助创作。</desc>
+<rect x="1" y="1" width="478" height="328" rx="13" fill="#FFFFFF" stroke="#DCE4EE"/>
+<path d="M14 1H466Q479 1 479 14V151H1V14Q1 1 14 1" fill="#F5F0E9"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+<text x="26" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#806348">02 / REIMAGINE THE STORY</text>
+<text x="26" y="109" font-size="58" letter-spacing="8" font-weight="500" fill="#806348">再写</text>
+<path d="M333 101H450M362 111H450M391 121H450" stroke="#806348" opacity=".2"/>
+<text x="26" y="194" font-size="24" font-weight="500" fill="#253348">AI 剧本改写</text>
+<text x="26" y="231" font-size="18" fill="#61748D">让旧故事长出新的可能。</text>
+<text x="26" y="259" font-size="18" fill="#61748D">围绕情节、人物与文风，探索 AI 辅助创作。</text>
+<text x="26" y="304" font-size="16" fill="#806348">原稿理解 / 改写 / 人工复核</text>
+</g>
+</svg>
