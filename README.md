@@ -52,7 +52,7 @@
 <a href="https://w93139.github.io/Jyn-Website/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
-    <img src="assets/contact-light.svg" width="136" height="44" alt="联系我 ↗ — 前往我的个人网站">
+    <img src="assets/contact-light.svg" width="120" height="38" alt="联系我 — 前往我的个人网站">
   </picture>
 </a>
 
