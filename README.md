@@ -23,7 +23,7 @@
   <a href="https://github.com/w93139/juben-workbench">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/rewrite-dark.svg">
-      <img src="assets/rewrite-light.svg" width="400" alt="续写｜AI 剧本改写。让旧故事长出新的可能，围绕情节、人物与文风探索 AI 辅助创作。查看项目仓库，需访问权限。">
+      <img src="assets/rewrite-light.svg" width="400" alt="续写｜AI 剧本改写。让旧故事长出新的可能，围绕情节、人物与文风探索 AI 辅助创作。查看开源项目。">
     </picture>
   </a>
 </p>
@@ -45,6 +45,8 @@
 
 ## 关于我
 
+「快看世界 慢想答案」
+
 对故事有耐心，对新东西有好奇心。<br>
 喜欢拆解复杂问题，也喜欢做出能用的小东西。<br>
 相信好想法值得动手，好产品需要回到真实场景。
@@ -56,4 +58,4 @@
 
 ---
 
-「 快看世界 慢想答案 」—— 联系我：[yzz93139@gmail.com ↗](mailto:yzz93139@gmail.com)
+联系我：[yzz93139@gmail.com ↗](mailto:yzz93139@gmail.com)
