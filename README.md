@@ -11,7 +11,7 @@
   </picture>
 </a>
 
-[作品与实践 ↓](#stories) &nbsp; · &nbsp; [联系我 ↗](mailto:yzz93139@gmail.com)
+[作品与实践 ↓](#stories) &nbsp; · &nbsp; [联系我 ↗](https://w93139.github.io/Jyn-Website/)
 
 <a id="stories"></a>
 
@@ -21,19 +21,20 @@
   <a href="https://github.com/w93139/ai-jubensha-fusion">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/play-dark.svg">
-      <img src="assets/play-light.svg" width="400" alt="入局｜人生海海 · AI 剧本杀。基于开源项目扩展，一个真人与 AI 角色共同走进故事。对话、找线索，做出你的判断。点击查看项目。">
+      <img src="assets/play-light.svg" width="400" alt="入戏｜人生海海 · AI 剧本杀。基于开源项目扩展，一个真人与 AI 角色共同走进故事。对话、找线索，做出你的判断。点击查看项目。">
     </picture>
   </a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/rewrite-dark.svg">
-    <img src="assets/rewrite-light.svg" width="400" alt="再写｜AI 剧本改写。让旧故事长出新的可能，围绕情节、人物与文风探索 AI 辅助创作。原稿理解、改写、人工复核。">
-  </picture>
+  <a href="https://github.com/w93139/juben-workbench">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/rewrite-dark.svg">
+      <img src="assets/rewrite-light.svg" width="400" alt="续写｜AI 剧本改写。让旧故事长出新的可能，围绕情节、人物与文风探索 AI 辅助创作。查看项目仓库，需访问权限。">
+    </picture>
+  </a>
 </p>
 
-<sub>AI 剧本杀基于开源项目扩展；AI 剧本改写为实践介绍。</sub>
+## Vibe Coding
 
-## 顺手做的工具
-
+- **[EchoMere 洄映](https://github.com/w93139/echomere)** — AI 对话、传统命理与自我探索（私有仓库）。
 - **[Token Usage Monitor](https://github.com/w93139/token-usage-monitor)** — MacOS Token监测。
 - **[GitHub Radar](https://github.com/w93139/github-radar)** — 发掘GitHub新项目。
 - **[Agent Blueprint](https://github.com/w93139/agent-blueprint)** — Agent搭建蓝图。

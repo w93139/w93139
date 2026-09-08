@@ -5,7 +5,7 @@
 <path d="M14 1H466Q479 1 479 14V151H1V14Q1 1 14 1" fill="#EAF2FA"/>
 <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
 <text x="26" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#356CA2">01 / PLAY THE STORY</text>
-<text x="26" y="109" font-size="58" letter-spacing="8" font-weight="500" fill="#356CA2">入局</text>
+<text x="26" y="109" font-size="58" letter-spacing="8" font-weight="500" fill="#356CA2">入戏</text>
 <path d="M333 101H450M362 111H450M391 121H450" stroke="#356CA2" opacity=".2"/>
 <text x="26" y="194" font-size="24" font-weight="500" fill="#253348">人生海海 · AI 剧本杀</text>
 <text x="26" y="231" font-size="18" fill="#61748D">一个真人，与 AI 角色共同走进故事。</text>
