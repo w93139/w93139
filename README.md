@@ -1,6 +1,6 @@
-# 你好，我是温曜榛 · 快慢刀
+# Hi，I'm 温曜榛「Wen Yaozhen」
 
-AI 产品经理，喜欢故事，也喜欢把想法做出来。
+「AI产品经理」｜「快看世界 慢想答案」
 
 <a href="#stories">
   <picture>
