@@ -30,11 +30,11 @@
 
 ## Vibe Coding
 
-- **[EchoMere 洄映](https://github.com/w93139/echomere)** — AI 对话、传统命理与自我探索（私有仓库）。
-- **[Token Usage Monitor](https://github.com/w93139/token-usage-monitor)** — MacOS Token监测。
-- **[GitHub Radar](https://github.com/w93139/github-radar)** — 发掘GitHub新项目。
-- **[Agent Blueprint](https://github.com/w93139/agent-blueprint)** — Agent搭建蓝图。
-- **[AI Product Teardown](https://github.com/w93139/ai-product-teardown)** — 产品项目拆解。
+- **[EchoMere 洄映](https://github.com/w93139/echomere)** — AI对话 传统命理与自我探索
+- **[Token Usage Monitor](https://github.com/w93139/token-usage-monitor)** — MacOS Token监测
+- **[GitHub Radar](https://github.com/w93139/github-radar)** — 发掘GitHub新项目
+- **[Agent Blueprint](https://github.com/w93139/agent-blueprint)** — Agent搭建蓝图
+- **[AI Product Teardown](https://github.com/w93139/ai-product-teardown)** — 产品项目拆解
 
 <details>
 <summary>更多方法与工具</summary>
@@ -57,5 +57,3 @@
 - **[OiiOii 产品架构研究 ↗](https://w93139.github.io/oiioii-product-architecture/)** — 从交互证据理解创作流程与 Agent 分工。
 
 ---
-
-联系我：[yzz93139@gmail.com ↗](mailto:yzz93139@gmail.com)
