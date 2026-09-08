@@ -1,7 +1,3 @@
-# 👋Hi，I'm 温曜榛「Wen Yaozhen」
-
-「AI产品经理」｜「快看世界 慢想答案」
-
 <a href="#stories">
   <picture>
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal-dark-mobile.svg">

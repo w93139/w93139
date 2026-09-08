@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
 <title id="title">快慢刀的故事工作台</title>
-<desc id="desc">温曜榛，AI 产品经理。让故事可以参与，让想法可以运行。Agent Skill、RAG、AIGC内容生产。</desc>
+<desc id="desc">温曜榛，AI 产品经理。让故事可以参与，让想法可以运行。Harness、GEO、Multi-Agent。</desc>
 <style>
 .terminal{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace}
 .reveal{opacity:1;animation:reveal .6s ease-out both}
@@ -16,10 +16,10 @@
 <circle cx="63" cy="25" r="5" fill="#61748D" opacity=".25"/>
 <g class="terminal">
 <text x="976" y="30" text-anchor="end" font-size="14" fill="#61748D">kuaimandao — story studio</text>
-<text x="42" y="93" font-size="19" fill="#356CA2">~/快慢刀 $ whoami</text>
+<text x="42" y="93" font-size="19" fill="#356CA2">👋Hi，I'm「Wen Yaozhen」</text>
 <text x="42" y="140" font-size="23" fill="#253348">温曜榛 · AI 产品经理</text>
 <g class="reveal one" fill="#253348"><text x="42" y="204" font-size="35">让故事可以参与，让想法可以运行。</text></g>
-<text class="reveal two" x="42" y="250" font-size="19" fill="#61748D">Agent Skill / RAG / AIGC内容生产</text>
+<text class="reveal two" x="42" y="250" font-size="19" fill="#61748D">Harness / GEO / Multi-Agent</text>
 <path d="M42 276H958" stroke="#DCE4EE"/>
 <text class="reveal three" x="42" y="308" font-size="16" fill="#356CA2">往下，看看我做的东西 ↓</text>
 </g>
