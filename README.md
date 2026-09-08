@@ -7,8 +7,6 @@
   </picture>
 </a>
 
-[作品与实践 ↓](#stories) &nbsp; · &nbsp; [联系我 ↗](https://w93139.github.io/Jyn-Website/)
-
 <a id="stories"></a>
 
 ## 故事与 AI
@@ -50,6 +48,13 @@
 对故事有耐心，对新东西有好奇心。<br>
 喜欢拆解复杂问题，也喜欢做出能用的小东西。<br>
 相信好想法值得动手，好产品需要回到真实场景。
+
+<a href="https://w93139.github.io/Jyn-Website/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg">
+    <img src="assets/contact-light.svg" width="136" height="44" alt="联系我 ↗ — 前往我的个人网站">
+  </picture>
+</a>
 
 ## 研究手记
 

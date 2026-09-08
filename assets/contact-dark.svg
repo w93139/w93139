@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="44" viewBox="0 0 136 44" role="img" aria-labelledby="title">
+  <title id="title">联系我 — 前往我的个人网站</title>
+  <rect x="0.5" y="0.5" width="135" height="43" rx="10" fill="#192D43" stroke="#304A65"/>
+  <text x="23" y="28" fill="#91BCE5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16" font-weight="600">联系我</text>
+  <path d="M98 17h9v9m0-9-10 10" fill="none" stroke="#91BCE5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
