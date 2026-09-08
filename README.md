@@ -1,9 +1,9 @@
-<a href="#stories">
+<a href="https://w93139.github.io/Jyn-Website/">
   <picture>
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal-dark-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
     <source media="(max-width: 600px)" srcset="assets/terminal-light-mobile.svg">
-    <img src="assets/terminal-light.svg" width="100%" alt="快慢刀的故事工作台：温曜榛 · AI 产品经理。让故事可以参与，让想法可以运行。点击查看作品。">
+    <img src="assets/terminal-light.svg" width="100%" alt="快慢刀的故事工作台：温曜榛 · AI 产品经理。让故事可以参与，让想法可以运行。点击进入我的个人网站。">
   </picture>
 </a>
 
