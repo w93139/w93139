@@ -2,7 +2,7 @@
 
 <a id="stories"></a>
 
-## 故事与 AI
+## AI & 剧本
 
 <p>
   <a href="https://github.com/w93139/ai-jubensha-fusion">
