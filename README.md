@@ -5,7 +5,7 @@
 ## AI & 剧本
 
 <p>
-  <a href="https://github.com/w93139/ai-jubensha-fusion">
+  <a href="https://github.com/w93139/AI-Script-Game">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/play-dark.svg">
       <img src="assets/play-light.svg" width="400" alt="入戏｜人生海海 · AI 剧本杀。基于开源项目扩展，一个真人与 AI 角色共同走进故事。对话、找线索，做出你的判断。点击查看项目。">
