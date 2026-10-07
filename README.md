@@ -1,24 +1,5 @@
 <p><a href="https://w93139.github.io/Jyn-Website/"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal-website-dark-mobile.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-website-dark.svg"><source media="(max-width: 600px)" srcset="assets/terminal-website-light-mobile.svg"><img src="assets/terminal-website-light.svg" width="33.3333%" alt="温曜榛 · AI 产品经理。让故事可以参与，让想法可以运行。My website：进入我的个人网站。"></picture></a><a href="https://xhslink.cn/o/6eXVjfjEOoQ"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal-xiaohongshu-dark-mobile.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-xiaohongshu-dark.svg"><source media="(max-width: 600px)" srcset="assets/terminal-xiaohongshu-light-mobile.svg"><img src="assets/terminal-xiaohongshu-light.svg" width="33.3333%" alt="小红书：访问我的小红书主页。"></picture></a><a href="https://raw.githubusercontent.com/w93139/w93139/main/assets/wechat-qr.jpg"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal-wechat-dark-mobile.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-wechat-dark.svg"><source media="(max-width: 600px)" srcset="assets/terminal-wechat-light-mobile.svg"><img src="assets/terminal-wechat-light.svg" width="33.3333%" alt="微信公众号：打开二维码图片，使用微信扫码关注。"></picture></a></p>
 
-<a id="stories"></a>
-
-## AI & 剧本
-
-<p>
-  <a href="https://github.com/w93139/AI-Script-Game">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/play-dark.svg">
-      <img src="assets/play-light.svg" width="400" alt="入戏｜人生海海 · AI 剧本杀。基于开源项目扩展，一个真人与 AI 角色共同走进故事。对话、找线索，做出你的判断。点击查看项目。">
-    </picture>
-  </a>
-  <a href="https://github.com/w93139/juben-workbench">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/rewrite-dark.svg">
-      <img src="assets/rewrite-light.svg" width="400" alt="续写｜AI 剧本改写。让旧故事长出新的可能，围绕情节、人物与文风探索 AI 辅助创作。查看开源项目。">
-    </picture>
-  </a>
-</p>
-
 ## Vibe Coding
 
 - **[EchoMere 洄映](https://github.com/w93139/echomere)** — AI对话 传统命理与自我探索
